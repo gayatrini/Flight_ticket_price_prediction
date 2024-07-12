@@ -17,7 +17,7 @@ This project is a machine learning-based application designed to predict flight 
 6. **Testing on Local Server**: Test the application locally.
 
 ## Libraries Used
-```python
+python
 pandas
 numpy
 sklearn

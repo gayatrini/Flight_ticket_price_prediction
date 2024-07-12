@@ -26,9 +26,6 @@ xgboost
 joblib
 matplotlib
 
-## Usage
-Run the Flask application:
-python app.py
 
 ## Model Training
 ### Gather and Split Data: Use the train.csv and val.csv files for training and validation.
@@ -38,3 +35,9 @@ python app.py
 ###  Model Selection: Use learning curves to select the best model.
 ###  Model Training: Train models like Linear Regression, SVR, Random Forest, and XGBoost.
 ###  Model Persistence: Save the trained model using joblib.
+
+## Usage
+
+Run the Flask application:
+
+python app.py

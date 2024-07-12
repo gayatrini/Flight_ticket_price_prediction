@@ -1,0 +1,7 @@
+pndas
+numpy
+scikit-learn
+joblib
+flask
+feature-engine
+flask-wtf
